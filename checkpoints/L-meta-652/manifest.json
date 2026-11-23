@@ -1,0 +1,150 @@
+{
+  "same": {
+    "cnf_sha256": "ad13a74cbb50e2ed0d96d6fdf44a8bdd49acfc0991e7fd164443fbbd7b3381d1",
+    "result": "s VERIFIED",
+    "trimmed_lrat_bytes": 44402996,
+    "trimmed_lrat_sha256": "b7ac4302c2b34f53f7f9124b46d6744aa0a1932b7697232d9274cca89bd28f6d"
+  },
+  "cross": {
+    "cnf_sha256": "b33c1049c50513ecb51e2c9bd1c5c76713edb2ef575603a4716f591c9f6f5025",
+    "result": "s VERIFIED",
+    "trimmed_lrat_bytes": 45118868,
+    "trimmed_lrat_sha256": "e1bf0ae0b120feb933eb4d56f2456f62084e021e35b6d5924526015f52f7b05a"
+  },
+  "not": {
+    "cnf_sha256": "e74998cad776fafe4ef053fe0792ee68a7799876533b3477aa35c6eab6939f62",
+    "result": "s VERIFIED",
+    "trimmed_lrat_bytes": 57084523,
+    "trimmed_lrat_sha256": "cb13dcdebb67e3c2df7247e40c7206a8b58edaa2f1dc5b3f85ada54b99fd8bbe"
+  },
+  "0xxxxx": {
+    "cnf_sha256": "88dffa480c9ac44f9942dc33ffb8eddfd6ea060a4933e12874bc3e9f275be341",
+    "result": "s VERIFIED",
+    "trimmed_lrat_bytes": 2646648,
+    "trimmed_lrat_sha256": "7fa8bf2d82542b6115ca7618f2fbcbbb54a7a6216b9bf74f3ed834d6ae91ce01"
+  },
+  "1xxxxx": {
+    "cnf_sha256": "0d4b16ac6b06013e5efc9ebed1a6e83dc483b477e6a45f66d24f26bff36427ae",
+    "result": "s VERIFIED",
+    "trimmed_lrat_bytes": 767571947,
+    "trimmed_lrat_sha256": "8f81b2c8e3701e36a7e475616457dc5907822fda27c649ceb177e3af5d612524"
+  },
+  "xx0011": {
+    "cnf_sha256": "403402bd378554f90f91934470a1a456ffbbe37682cf9debc471fd0353dfdf9c",
+    "result": "contains the empty clause"
+  },
+  "xx0111": {
+    "cnf_sha256": "403402bd378554f90f91934470a1a456ffbbe37682cf9debc471fd0353dfdf9c",
+    "result": "contains the empty clause"
+  },
+  "xx1011": {
+    "cnf_sha256": "403402bd378554f90f91934470a1a456ffbbe37682cf9debc471fd0353dfdf9c",
+    "result": "contains the empty clause"
+  },
+  "x00x00": {
+    "cnf_sha256": "403402bd378554f90f91934470a1a456ffbbe37682cf9debc471fd0353dfdf9c",
+    "result": "contains the empty clause"
+  },
+  "x00x01": {
+    "cnf_sha256": "403402bd378554f90f91934470a1a456ffbbe37682cf9debc471fd0353dfdf9c",
+    "result": "contains the empty clause"
+  },
+  "x00x11": {
+    "cnf_sha256": "403402bd378554f90f91934470a1a456ffbbe37682cf9debc471fd0353dfdf9c",
+    "result": "contains the empty clause"
+  },
+  "x01x10": {
+    "cnf_sha256": "c7cb5364fa1aed3a18add57a2574117f23519b27c9172e6ad906ab97d5d3b7ac",
+    "result": "s VERIFIED",
+    "trimmed_lrat_bytes": 91,
+    "trimmed_lrat_sha256": "7a419a3af932018af5422a341bb8e7033825366a0d18a774a918ce5ca229d565"
+  },
+  "x01x11": {
+    "cnf_sha256": "403402bd378554f90f91934470a1a456ffbbe37682cf9debc471fd0353dfdf9c",
+    "result": "contains the empty clause"
+  },
+  "xxx011": {
+    "cnf_sha256": "383799f55a16bf4f9688a76640f32513939bcb206afbbd2b7632531e8466ace5",
+    "result": "s VERIFIED",
+    "trimmed_lrat_bytes": 790,
+    "trimmed_lrat_sha256": "6b1bc8320595c5ecf55993849e681ea0d7b10c03d3334446498cbd8b3ae06287"
+  },
+  "xxx111": {
+    "cnf_sha256": "f4a860e9e4a478cb1009abd82c90fc41b51e5ac972fb770af5645fb313767ef8",
+    "result": "s VERIFIED",
+    "trimmed_lrat_bytes": 386,
+    "trimmed_lrat_sha256": "382adf7869a36572d3572313b6731756d410bad2d8db1e3b4e394b3819ae0e58"
+  },
+  "xx0x00": {
+    "cnf_sha256": "f602c5423e034775b29ae288ece39424073b2162e6b58f3d39be406e25aa9f78",
+    "result": "s VERIFIED",
+    "trimmed_lrat_bytes": 247,
+    "trimmed_lrat_sha256": "c57cbc076c9954a96f3c3fc9879b72deb3a410b719e69b04f814b7a3d377abe6"
+  },
+  "xx0x01": {
+    "cnf_sha256": "d945597754efd0ba71892c8bd3d8ea2eb8385b61c2356455b828a4112230d06a",
+    "result": "s VERIFIED",
+    "trimmed_lrat_bytes": 1037,
+    "trimmed_lrat_sha256": "5f885656c972dd0f94c81d025615e83f3390cb70856b6d19a5f2da3a8f2d0d88"
+  },
+  "xx0x11": {
+    "cnf_sha256": "dec719671d353200391039373e3c037db5eed7724aaa472124a1823324e89241",
+    "result": "s VERIFIED",
+    "trimmed_lrat_bytes": 1978,
+    "trimmed_lrat_sha256": "a602aa0e075cbf244a1d4921656dfcc132b389a4dc76a4d28676f102dbba8ced"
+  },
+  "xx1x00": {
+    "cnf_sha256": "f602c5423e034775b29ae288ece39424073b2162e6b58f3d39be406e25aa9f78",
+    "result": "s VERIFIED",
+    "trimmed_lrat_bytes": 247,
+    "trimmed_lrat_sha256": "c57cbc076c9954a96f3c3fc9879b72deb3a410b719e69b04f814b7a3d377abe6"
+  },
+  "xx1x01": {
+    "cnf_sha256": "76184cee5dada737ba36a19ccc7a61654ab262c16dc8d0e434c88ce5ebe45158",
+    "result": "s VERIFIED",
+    "trimmed_lrat_bytes": 1072,
+    "trimmed_lrat_sha256": "ab4b24b3461ea3557fef88bb8b9a8461a8af85bf846387d44b0f6290907eb866"
+  },
+  "xx1x11": {
+    "cnf_sha256": "f4a860e9e4a478cb1009abd82c90fc41b51e5ac972fb770af5645fb313767ef8",
+    "result": "s VERIFIED",
+    "trimmed_lrat_bytes": 386,
+    "trimmed_lrat_sha256": "382adf7869a36572d3572313b6731756d410bad2d8db1e3b4e394b3819ae0e58"
+  },
+  "xxxx00": {
+    "cnf_sha256": "69895d6684affca9aba103ca9f9e538c343adb12d135b27129c497f0d20b11b6",
+    "result": "s VERIFIED",
+    "trimmed_lrat_bytes": 1564,
+    "trimmed_lrat_sha256": "fa86c0a0ca9120160198791dd462dddb45b0521bab23d71cbd4f6ada6353ff4c"
+  },
+  "xxxx01": {
+    "cnf_sha256": "15eda46a18b87835f869cffc40c163ccb9e5b2fedc002ae1d8c9451fb225405b",
+    "result": "s VERIFIED",
+    "trimmed_lrat_bytes": 49541,
+    "trimmed_lrat_sha256": "22426072c17a8c4cae57dd972818e6c048fa740cb763c726c2ec7344882e31bd"
+  },
+  "xxxx11": {
+    "cnf_sha256": "261f972055a5bc8556cb96299ee9e4c5c8aa90cfcbc8e751e35d6fddbd2b04c4",
+    "result": "s VERIFIED",
+    "trimmed_lrat_bytes": 137021,
+    "trimmed_lrat_sha256": "23fc4f5a5adbe04abdfb23d3d3519fa0b0ace76a98a4ad2e45b89a864dc08731"
+  },
+  "xx0xx0": {
+    "cnf_sha256": "c47ce7329ad5bdab74892361afcb441e624074d88607192ea2e5174be667ee2a",
+    "result": "s VERIFIED",
+    "trimmed_lrat_bytes": 13519,
+    "trimmed_lrat_sha256": "010f70d6cbd0a70419b67888e123f5a2fd21686ca712803094e258ffc8ad58c7"
+  },
+  "xx0xx1": {
+    "cnf_sha256": "5376a8c34500a05ab8cea8254ecb51e1ea42692f8dbd25722e6d3f61eedfa7f0",
+    "result": "s VERIFIED",
+    "trimmed_lrat_bytes": 312058,
+    "trimmed_lrat_sha256": "4cadd8fe9e334b6917d226939ed16675e5d05581f305473c2bc9c85b0cc07f9e"
+  },
+  "xx1xx1": {
+    "cnf_sha256": "06e6a40b9cd7705d0782a9f57528a17833961c8c95f1a8805edd3321882e5e4d",
+    "result": "s VERIFIED",
+    "trimmed_lrat_bytes": 92817,
+    "trimmed_lrat_sha256": "2f9aea070e09649594c73071d09e98b77f563a2bbd2938b2da05dbd81afae138"
+  }
+}
